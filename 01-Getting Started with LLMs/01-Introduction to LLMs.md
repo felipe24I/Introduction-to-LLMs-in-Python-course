@@ -17,3 +17,7 @@ LLMs are sofisticated AI models capable of understanding and generating human la
 <img width="878" height="662" alt="image" src="https://github.com/user-attachments/assets/cfeca5bd-fb47-487b-9750-7c553ce0568c" />
 
 <img width="882" height="602" alt="image" src="https://github.com/user-attachments/assets/5c7d1d2d-b88b-42d6-a002-6ebff80de061" />
+
+### Example using a pipeline for summarization
+
+<img width="783" height="172" alt="image" src="https://github.com/user-attachments/assets/66f74724-3306-4c5c-9c98-065e568834c2" />
