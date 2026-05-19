@@ -25,3 +25,22 @@
 <img width="1107" height="366" alt="image" src="https://github.com/user-attachments/assets/bf893921-81a9-4f83-b209-6024127c5774" />
 
 * 0-1 score : closer to 1 = higher similarity
+
+### Example
+
+```python
+input_sentence_1 = "Hola, ¿cómo estás?"
+
+reference_1 = [
+     ["Hello, how are you?", "Hi, how are you?"]
+     ]
+
+input_sentences_2 = ["Hola, ¿cómo estás?", "Estoy genial, gracias."]
+
+references_2 = [
+     ["Hello, how are you?", "Hi, how are you?"],
+     ["I'm great, thanks.", "I'm great, thank you."]
+     ]
+```
+
+<img width="1050" height="317" alt="image" src="https://github.com/user-attachments/assets/a09cc527-8f19-4d4c-b896-d1c3a7c178e1" />
